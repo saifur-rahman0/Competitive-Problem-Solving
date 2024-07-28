@@ -1,0 +1,1 @@
+{"name":"Local: Sub_Array","url":"d:\\Programs\\Competetive Programming\\ICPC\\Sub_Array.cpp","tests":[{"id":1697199896504,"input":"2\n4\n1 0 1 0\n7\n1 1 2 3 3 4 7","output":"Case 1: 6\nCase 2: 19"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programs\\Competetive Programming\\ICPC\\Sub_Array.cpp","group":"local","local":true}
